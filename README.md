@@ -1,5 +1,5 @@
 # dqn_and_improve
-This project is modified from https://gitee.com/goluke/dqn-breakout based on my opinionated styles of coding.
+This project is modified from https://gitee.com/goluke/dqn-breakout.
 
 This project is a midterm assignment for reinforcement learning in SYSU.
 
